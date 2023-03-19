@@ -2,6 +2,8 @@
 
 ## <p align="center">CHING CHONG CLIENT</p>
 
+# FEATURES
+
 - UNCAPPED FPS
 - RED CLAN COLOR
 - RICE TASTES GOOD
